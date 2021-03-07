@@ -1,0 +1,17 @@
+{
+    "name": "com.guanomancer.webapi",
+    "version": "0.1.0",
+    "displayName": "WebApi",
+    "description": "This is a WebGL compatible implementation of a WebApi client.",
+    "unity": "2020.1",
+   "keywords": [
+      "webapi",
+      "api",
+      "webgl"
+    ],
+    "author": {
+      "name": "Guanomancer",
+      "email": "info@guanomancer.com",
+      "url": "https://www.guanomancer.com"
+    }
+  }
